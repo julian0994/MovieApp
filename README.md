@@ -8,11 +8,9 @@ MovieApp es una aplicación Flutter que consume una API REST pública proporcion
 
 ## Capturas de Pantalla 📸
 
-## Capturas de Pantalla 📸
-
 | Splash | Home Light | Home Dark | Details |
 |--------|------------|-----------|---------|
-| ![Splash](https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/splash.jpeg?raw=true =600x) | ![Home Light](https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/homelight.jpeg?raw=true =600x) | ![Home Dark](https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/homedark.jpeg?raw=true =600x) | ![Details](https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/details.jpeg?raw=true =600x) |
+| <img src="https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/splash.jpeg?raw=true" width="600" /> | <img src="https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/homelight.jpeg?raw=true" width="600" /> | <img src="https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/homedark.jpeg?raw=true" width="600" /> | <img src="https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/details.jpeg?raw=true" width="600" /> |
 
 
 ## Requisitos Previos 🛠
