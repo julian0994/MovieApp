@@ -1,5 +1,5 @@
 # MovieApp
-<img src="https://github.com/tu-usuario/tu-repo/raw/main/assets/icon.png" width="100" />
+<img src="https://github.com/julian0994/MovieApp/blob/main/assets/IconMovieSFgit .png" width="100" />
 
 
 ## Introducción 📌
@@ -8,10 +8,10 @@ MovieApp es una aplicación Flutter que consume una API REST pública proporcion
 
 ## Capturas de Pantalla 📸
 
-<img src="https://github.com/tu-usuario/tu-repo/raw/main/assets/images/screenshots/splash.jpeg" width="100" />
-<img src="https://github.com/tu-usuario/tu-repo/raw/main/assets/images/screenshots/homelight.jpeg" width="100" />
-<img src="https://github.com/tu-usuario/tu-repo/raw/main/assets/images/screenshots/homedark.jpeg" width="100" />
-<img src="https://github.com/tu-usuario/tu-repo/raw/main/assets/images/screenshots/details.jpeg" width="100" />
+<img src="https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/splash.jpeg" width="100" />
+<img src="https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/homelight.jpeg" width="100" />
+<img src="https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/homedark.jpeg" width="100" />
+<img src="https://github.com/julian0994/MovieApp/blob/main/assets/images/screenshots/details.jpeg" width="100" />
 
 ## Requisitos Previos 🛠
 
