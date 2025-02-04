@@ -24,7 +24,7 @@ MovieApp es una aplicación Flutter que consume una API REST pública proporcion
 ## Instalación y Configuración 🚀
 
 ### Clonar el repositorio:
-* git clone https://github.com/tu-usuario/movieapp.git
+* git clone [https://github.com/tu-usuario/movieapp.git](https://github.com/julian0994/MovieApp.git)
 * cd movieapp
 ### Instalar dependencias:
 * flutter pub get
