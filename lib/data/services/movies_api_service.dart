@@ -7,7 +7,7 @@ class MoviesApiService {
 
   MoviesApiService({required this.dio});
 
-  Future<List<MoviesDTO>> getPopularMovies(int page) async{
+  Future<List<MoviesDTO>> getPopularMovies(int page) async{ // 5 api request
     final response = await dio.get('/movie/popular', queryParameters: {'page':page});
 
     final List<dynamic> data= response.data['results'];

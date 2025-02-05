@@ -15,7 +15,7 @@ class MyApp extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
 
-    final themeMode =ref.watch(themeProvider);
+    final themeMode =ref.watch(themeProvider); //Watch the theme status
 
     return MaterialApp(
 
@@ -59,7 +59,7 @@ class MyApp extends ConsumerWidget {
               )
           )
       ),
-      themeMode: themeMode,
+      themeMode: themeMode, //choose theme
       home: SplashScreen(),
     );
   }

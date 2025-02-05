@@ -61,8 +61,7 @@ class MoviesState{
 }
 
 class MoviesNotifier extends StateNotifier<MoviesState>{
-  final GetPopularMovies getPopularMovies;
-
+  final GetPopularMovies getPopularMovies; //2 implement the use case
   MoviesNotifier(this.getPopularMovies):
       super(MoviesState(movies: [], page: 1, isLoading: false, hasMore: true)
 

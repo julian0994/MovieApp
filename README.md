@@ -24,7 +24,7 @@ MovieApp es una aplicación Flutter que consume una API REST pública proporcion
 ## Instalación y Configuración 🚀
 
 ### Clonar el repositorio:
-* git clone https://github.com/tu-usuario/movieapp.git
+* git clone [https://github.com/julian0994/MovieApp.git](https://github.com/julian0994/MovieApp.git)
 * cd movieapp
 ### Instalar dependencias:
 * flutter pub get
@@ -62,5 +62,3 @@ Se eligió Riverpod debido a que es una herramienta confiable que facilita el de
 ### Arquitectura por Capas 📌
 
 Se sigue un patrón de arquitectura por capas para mantener una separación clara entre UI, lógica de negocio y datos.
-
-

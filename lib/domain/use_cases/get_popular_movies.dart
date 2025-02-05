@@ -5,7 +5,7 @@ import 'package:movieapp/domain/repositories/movie_repository.dart';
 import '../entities/movie.dart';
 
 class GetPopularMovies{
-  final MovieRepository repository;
+  final MovieRepository repository; //3 access to abstract repository
 
   GetPopularMovies(this.repository);
 

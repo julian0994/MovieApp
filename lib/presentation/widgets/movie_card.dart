@@ -14,7 +14,7 @@ class MovieCard extends ConsumerWidget{
   Widget build(BuildContext context,WidgetRef ref) {
     final navigationservice= ref.read(navigationServiceProvider);
     return Card(
-      margin: EdgeInsets.all(8),
+      margin: const EdgeInsets.all(8),
       elevation: 5,
       child: InkWell(
         child: Column(

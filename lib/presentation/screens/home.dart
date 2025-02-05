@@ -41,7 +41,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen>{
 
 
     final themeMode = ref.watch(themeProvider);
-    final moviesState= ref.watch(moviesProvider);
+    final moviesState= ref.watch(moviesProvider);//1 Get the current state of moviesProvider and listen for changes
     final search=ref.watch(searchProvider);
     final searchvisible=ref.watch(searchVisibilityProvider);
 
